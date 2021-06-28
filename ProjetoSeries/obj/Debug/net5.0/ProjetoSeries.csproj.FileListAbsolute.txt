@@ -1,0 +1,16 @@
+C:\Users\Victor\Projeto1\ProjetoSeries\bin\Debug\net5.0\ProjetoSeries.exe
+C:\Users\Victor\Projeto1\ProjetoSeries\bin\Debug\net5.0\ProjetoSeries.deps.json
+C:\Users\Victor\Projeto1\ProjetoSeries\bin\Debug\net5.0\ProjetoSeries.runtimeconfig.json
+C:\Users\Victor\Projeto1\ProjetoSeries\bin\Debug\net5.0\ProjetoSeries.runtimeconfig.dev.json
+C:\Users\Victor\Projeto1\ProjetoSeries\bin\Debug\net5.0\ProjetoSeries.dll
+C:\Users\Victor\Projeto1\ProjetoSeries\bin\Debug\net5.0\ref\ProjetoSeries.dll
+C:\Users\Victor\Projeto1\ProjetoSeries\bin\Debug\net5.0\ProjetoSeries.pdb
+C:\Users\Victor\Projeto1\ProjetoSeries\obj\Debug\net5.0\ProjetoSeries.csprojAssemblyReference.cache
+C:\Users\Victor\Projeto1\ProjetoSeries\obj\Debug\net5.0\ProjetoSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Projeto1\ProjetoSeries\obj\Debug\net5.0\ProjetoSeries.AssemblyInfoInputs.cache
+C:\Users\Victor\Projeto1\ProjetoSeries\obj\Debug\net5.0\ProjetoSeries.AssemblyInfo.cs
+C:\Users\Victor\Projeto1\ProjetoSeries\obj\Debug\net5.0\ProjetoSeries.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Projeto1\ProjetoSeries\obj\Debug\net5.0\ProjetoSeries.dll
+C:\Users\Victor\Projeto1\ProjetoSeries\obj\Debug\net5.0\ref\ProjetoSeries.dll
+C:\Users\Victor\Projeto1\ProjetoSeries\obj\Debug\net5.0\ProjetoSeries.pdb
+C:\Users\Victor\Projeto1\ProjetoSeries\obj\Debug\net5.0\ProjetoSeries.genruntimeconfig.cache
